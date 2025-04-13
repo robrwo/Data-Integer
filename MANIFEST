@@ -5,6 +5,7 @@ MANIFEST
 META.json
 META.yml
 README
+SECURITY.md
 SIGNATURE			Added here by Module::Build
 t/arith.t
 t/bitwise.t

@@ -5,6 +5,8 @@ Revision history for Data-Integer:
 
   - Reformatted Changes to conform to CPAN::Changes::Spec.
 
+  - Added a security policy.
+
   [Toolchain]
   - Switched to use Makefile.PL.
 

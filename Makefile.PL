@@ -29,7 +29,7 @@ WriteMakefile(
     'META_MERGE'  => {
         resources => {
             repository => 'git://github.com/robrwo/Data-Integer.git',
-            bugtracker => 'https://rt.cpan.org/Public/Dist/Display.html?Name=Data-Integer',
+            bugtracker => 'https://github.com/robrwo/Data-Integer/issues',
         },
     }
 );

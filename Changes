@@ -1,6 +1,8 @@
 Revision history for Data-Integer:
 
 0.008
+  [Other]
+  - Changed bugtracker to refer to GitHub repo.
 
 0.007    2025-04-13 10:47 Europe/London
   [Documentation]

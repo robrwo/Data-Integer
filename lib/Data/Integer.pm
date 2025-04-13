@@ -1401,9 +1401,11 @@ L<perlnumber(1)>
 
 Andrew Main (Zefram) <zefram@fysh.org>
 
+Currently maintained by Robert Rothenberg <rrwo@cpan.org>
+
 =head1 COPYRIGHT
 
-Copyright (C) 2007, 2010, 2015, 2017
+Copyright (C) 2007, 2010, 2015, 2017, 2025
 Andrew Main (Zefram) <zefram@fysh.org>
 
 =head1 LICENSE

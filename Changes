@@ -1,5 +1,8 @@
 Revision history for Data-Integer:
 
+  [Documentation]
+  - Updated maintainer information.
+
   - Reformatted Changes to conform to CPAN::Changes::Spec.
 
 0.006    2017-08-07

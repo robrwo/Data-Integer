@@ -5,6 +5,11 @@ Revision history for Data-Integer:
 
   - Reformatted Changes to conform to CPAN::Changes::Spec.
 
+  [Toolchain]
+  - Switched to use Makefile.PL.
+
+  - Cleaned up MANIFEST.
+
 0.006    2017-08-07
 
   - no longer include a Makefile.PL in the distribution

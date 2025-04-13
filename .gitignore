@@ -2,10 +2,12 @@
 /Makefile
 /_build
 /blib
+/pm_to_blib
 /META.json
 /META.yml
 /MYMETA.json
 /MYMETA.yml
-/Makefile.PL
 /SIGNATURE
 /Data-Integer-*
+*.bak
+*.old
